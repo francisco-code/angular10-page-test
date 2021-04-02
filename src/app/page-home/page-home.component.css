@@ -1,0 +1,39 @@
+
+.alert{
+    width: 960px;
+    height: 72px;
+    position: absolute; 
+    top: 209px;
+    left: 20px;
+    background: rgba(241, 174, 47, 0.10);
+    border: 1px solid #B58221;
+    border-radius: 4px;
+    text-align: unset;
+    font-family: Verdana;
+    font-size: 12;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+.closebtn:hover {
+    color: black;
+}
+
+.card{
+    width: 291px;
+    height: 224px;
+    position: absolute;
+    top: 313px;
+    left: 689px;
+    border: 1px solid #D6D0CC;
+    border-radius: 4px;
+}
